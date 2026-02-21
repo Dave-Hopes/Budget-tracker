@@ -1,4 +1,4 @@
-# Budge maker
+# Budget maker
 
 ## About
 this is a budget maker, it is simple it just takes in your monthly salary and makes a split of how much money you have for categories 🙂
